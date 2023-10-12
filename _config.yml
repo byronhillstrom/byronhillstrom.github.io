@@ -20,11 +20,11 @@
 
 title: "Introduction to Data Ethics"
 email: "byronhil@byu.edu"
-description: "Here we will go over some imprtant points of data ethics" 
+description: "Blog for Stat 386" 
 baseurl: #"/stat386-blog-theme" # the name of the repository 
 url: "https://byronhillstrom.github.io"
 image: https://source.unsplash.com/random
-author: Byron H
+author: Byron Hillstrom
 copyright: BAH
 footer_description: 'The default image for the site header is a random image from 
         <a href="https://source.unsplash.com/random" target="_blank"> Unsplash</a>. 
