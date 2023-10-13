@@ -3,8 +3,7 @@ layout: post
 title:  "Intro to Data Ethics"
 author: "Byron Hillstrom"
 description: "Important points of Data Ethics"
-image: "https://unsplash.com/
-https://images.unsplash.com/photo-1510158105534-9b01f2462ce1?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=kyle-glenn-gHwDURuSafI-unsplash.jpg&w=640"
+image: "/assets/images/kyle-glenn-gHwDURuSafI-unsplash.jpg"
 --- 
 
 Understanding Data:
