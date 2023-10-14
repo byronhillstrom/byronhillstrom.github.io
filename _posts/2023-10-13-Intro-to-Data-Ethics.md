@@ -27,7 +27,7 @@ Treat everyone's data equally. Don't discriminate based on characteristics like 
 #### Accuracy:
 Ensure data is accurate and up-to-date. Think of it like getting the facts right in a school report.
 
-![Alt text](../assets/images/darrin-henein-sREvt-W52Tc-unsplash.jpg)
+![img](../assets/images/darrin-henein-sREvt-W52Tc-unsplash.jpg)
 ## Why Data Ethics Matters:
 You might wonder, "Why should I care about data ethics?" Well, it's not just about being a responsible digital citizen; it affects you directly. Here's why:
 
@@ -43,7 +43,7 @@ Improper data handling can lead to legal trouble. Just as breaking the rules in 
 #### A Better Digital World:
 By practicing data ethics, you contribute to a better, more responsible digital world. You're like the superhero protecting the internet!
 
-![Alt text](../assets/images/joshua-sortino-LqKhnDzSF-8-unsplash.jpg)
+![img](../assets/images/joshua-sortino-LqKhnDzSF-8-unsplash.jpg)
 ## <b>How to Practice Data Ethics:
 Now, let's talk about how to put data ethics into action:
 
