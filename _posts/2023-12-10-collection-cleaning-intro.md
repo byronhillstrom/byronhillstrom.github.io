@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Understanding the Evolution of NBA Player Performance: A Data-driven Exploration"
+author: Byron Hillstrom
+description: Intro to the Semester project   
+image: "/assets/images/image5.jpg"
+---
+
 Understanding the Evolution of NBA Player Performance: A Data-driven Exploration
 Introduction:
 The world of basketball is dynamic, and the NBA has been a stage for some of the greatest athletes in the sport. To unravel the intricacies of player performance, I embarked on a data-driven journey to analyze NBA statistics from both regular seasons and playoffs. The primary motivation was to understand how player metrics have evolved over the years and whether there are notable differences in performance during the intense playoff matchups.
