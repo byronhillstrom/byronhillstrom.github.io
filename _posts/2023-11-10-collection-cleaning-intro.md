@@ -15,9 +15,9 @@ How have NBA player statistics changed over the years, and what distinctions can
 
 Data Collection and Cleaning:
 To answer this question, a comprehensive dataset was assembled by scraping data from the official NBA statistics website. Utilizing Python and the requests library, I pulled information on various player metrics, spanning seasons from 2010-11 to 2020-21. The dataset comprises over 300 observations, including informative features such as player ID, team, points scored, and more.
-<img src="{{https://byronhillstrom.github.io}}/assets/images/webscrape1.png"/>
-<img src="{{https://byronhillstrom.github.io}}/assets/images/webscrape2.png"/>
-<img src="{{https://byronhillstrom.github.io}}/assets/images/webscrape3.png"/>
+<img src="{{https://byronhillstrom.github.io}}/assets/images/scrape1.png"/>
+<img src="{{https://byronhillstrom.github.io}}/assets/images/scrape2.png"/>
+
 Cleaning the data was a crucial step in ensuring accuracy and consistency. Columns were normalized, missing values addressed, and unnecessary columns dropped. The dataset was enriched with derived metrics, such as shooting percentages and turnover ratios, providing a more holistic view of player performance.
 <img src="{{https://byronhillstrom.github.io}}/assets/images/dataclean.png"/>
 Ethical Considerations:
