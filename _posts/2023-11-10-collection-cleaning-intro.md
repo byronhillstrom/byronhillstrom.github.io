@@ -19,7 +19,7 @@ To answer this question, a comprehensive dataset was assembled by scraping data 
 <img src="{{https://byronhillstrom.github.io}}/assets/images/webscrape2.png"/>
 <img src="{{https://byronhillstrom.github.io}}/assets/images/webscrape3.png"/>
 Cleaning the data was a crucial step in ensuring accuracy and consistency. Columns were normalized, missing values addressed, and unnecessary columns dropped. The dataset was enriched with derived metrics, such as shooting percentages and turnover ratios, providing a more holistic view of player performance.
-
+<img src="{{https://byronhillstrom.github.io}}/assets/images/dataclean.png"/>
 Ethical Considerations:
 Web scraping raises ethical considerations, and it's imperative to approach data collection responsibly. In this project, I adhered to ethical principles by ensuring that the web scraping process was respectful of the NBA's website. Requests were made at a reasonable rate, and the collected data was used solely for analytical purposes. No private API keys or authentication information were used, and efforts were made to minimize any potential impact on the website's servers.
 
